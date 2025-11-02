@@ -19,11 +19,11 @@
 <p>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaimShaikh&layout=compact&theme=radical" width="300" alt="Top Programming Languages by Saime Shaikh"/>
   
-  👨‍💻 Final-year BTech student specializing in Cloud Computing at ADYPU, Pune  
-  ☁️ Passionate about DevOps, Cloud Technologies, and Automation  
-  🔧 Building scalable and resilient cloud infrastructures  
-  🎯 Goal: To become a DevOps Engineer solving real-world cloud challenges  
-  🌱 Currently learning: Advanced Kubernetes and Cloud Security  
+- 👨‍💻 B.Tech Graduate in Cloud Computing | ADYPU, Pune
+- ☁️ Passionate about DevOps, Cloud Technologies, and Automation
+- 🔧 Skilled in building scalable, secure, and resilient cloud infrastructures
+- 🚀 Focused on becoming a DevOps Engineer who solves real-world cloud challenges with efficiency and innovation
+- 🌱 Continuously learning Advanced Kubernetes, Cloud Security, and Infrastructure as Code (IaC)  
 </p>
 
 <br clear="right"/>
